@@ -11,6 +11,3 @@ This script demonstrates how a simple rule-based entity-linking approach is able
 ## Evaluate
 * Copy the output to a text file, e.g. `result.txt`
 * Run the official evaluation script with `-ref.out -result.txt`
-
-## Some Extra Work
-This rule-based approach can be applied together with a neural network to achieve a even better result in the task. Code of the neural network is not included in this repo. But the evaluation scores of the combined approach are provided here as a reference.
